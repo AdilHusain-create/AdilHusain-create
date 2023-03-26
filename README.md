@@ -2,7 +2,7 @@
 I'm Adil Husain<br>Software Engineer @Accenture
 - 🔭 I’m currently working on **[CraCode](https://github.com/AdilHusain-create/CraCode)**
 
-- 🖥️  See my portfolio at **[Portfolio.AdilHusain.Com](http://a)**
+- 🖥️  See my portfolio at **[Portfolio.AdilHusain.Com](https://adilhusain-create.github.io/portfolio.github.io/)**
 
 - 🧠  I'm learning **.NET Framework, ASP.NET MVC, .NET CORE and Entity Framework**
 
