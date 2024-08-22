@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Adil Husain<br>Software Engineer @Accenture
+I'm Adil Husain
 - 🔭 I’m currently working on **[CraCode](https://github.com/AdilHusain-create/CraCode)**
 
 - 🖥️  See my portfolio at **[Portfolio.AdilHusain.Com](https://adilhusain-create.github.io/portfolio.github.io/)**
