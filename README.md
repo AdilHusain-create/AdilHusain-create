@@ -1,15 +1,9 @@
 # 💫 About Me:
 I'm Adil Husain
-- 🔭 I’m currently working on **[CraCode](https://github.com/AdilHusain-create/CraCode)**
-
+- 🔭 ** Currently working as Full Stack Develoepr @Accenture. **
 - 🖥️  See my portfolio at **[Portfolio.AdilHusain.Com](https://adilhusain-create.github.io/portfolio.github.io/)**
-
-- 🧠  I'm learning **.NET Framework, ASP.NET MVC, .NET CORE and Entity Framework**
-
-- 🤝  I'm open to collaborating on **.NET Technologies, JAVA and OpenSource Contributions**
-
+- 🤝  I'm open to collaborating on **JavaScrip, ReactJS | Python | Fast API | C# Asp.Net MVC | Data Engineering and OpenSource Contributions**
 - ✉️  You can contact me at **[adilhusain93@gamil.com](mailto:adilhusain93@gamil.com)**
-
 - ⚡  **Budding Entrepreneur** 
 
 
